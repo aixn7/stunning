@@ -7,6 +7,7 @@ public class App {
     System.out.println("Contenido 2b");
     System.out.println("4 de noviembre");
     System.out.println("León");
+    System.out.println("Morado");
   }
   
 }
